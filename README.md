@@ -1,6 +1,6 @@
 # Hey there, I'm Simon! 👋
 
-I'm a passionate **frontend developer** with a deep love for building beautiful, responsive, and user-friendly websites. I specialize in creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. My focus is on **JavaScript**, **React**, **Vue**, and **TypeScript**, but I also have experience with **Node.js**, **Tailwind CSS**, **Bootstrap**, and **SCSS**.
+I'm a passionate **frontend developer** with a deep love for building beautiful, responsive, and user-friendly websites. I specialize in creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
 
 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or indulging in a good podcast or Netflix series!
 
