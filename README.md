@@ -16,14 +16,15 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ## ⭐ Featured Repositories
 
-- [![Website Template](https://img.shields.io/badge/Project_1-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/template-warcraft)  
-   A template for a website, using Nextjs, React and Shadcn. A repo that you can fork if you need a solution quickly XX Work in progress XX
+- [![Website Template](https://img.shields.io/badge/Website_Template-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/template-warcraft)  
+   A template for a website, using Next.js, React, and Shadcn. A repo that you can fork if you need a solution quickly.
 
-- [![Website for Fantasy Festival](https://img.shields.io/badge/Project_2-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/Fantasy-Festival)  
-  A project we made in the 2nd semester for our AP Degree for a customer 
+- [![Website for Fantasy Festival](https://img.shields.io/badge/Website_for_Fantasy_Festival-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/Fantasy-Festival)  
+  A project we made in the 2nd semester for our AP Degree for a customer.
 
-- [![NexTask - A project management solution](https://img.shields.io/badge/Project_3-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/NimNim20/NexTask)  
- A project that @nimnim20 and I started, for fun and to improve our React skills, making a real product and really challenge ourselves. XX Work in progress XX
+- [![NexTask - A project management solution](https://img.shields.io/badge/NexTask_A_project_management_solution-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/NimNim20/NexTask)  
+ A project that @nimnim20 and I started, for fun and to improve our React skills, making a real product and really challenge ourselves. 
+
 
 
 ## 📊 GitHub Stats:
