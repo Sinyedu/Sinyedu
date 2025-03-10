@@ -14,6 +14,18 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
+## ⭐ Featured Repositories
+
+- [![Website Template](https://img.shields.io/badge/Project_1-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/template-warcraft)  
+   A template for a website, using Nextjs, React and Shadcn. A repo that you can fork if you need a solution quickly XX Work in progress XX
+
+- [![Website for Fantasy Festival](https://img.shields.io/badge/Project_2-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/Fantasy-Festival)  
+  A project we made in the 2nd semester for our AP Degree for a customer 
+
+- [![NexTask - A project management solution](https://img.shields.io/badge/Project_3-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/NimNim20/NexTask)  
+ A project that @nimnim20 and I started, for fun and to improve our React skills, making a real product and really challenge ourselves. XX Work in progress XX
+
+
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinyedu&show_icons=true&hide_title=true&count_private=true)
 
