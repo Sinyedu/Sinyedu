@@ -1,4 +1,7 @@
-# Hey there, I'm Simon! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20there,%20I'm%20Simon!%20👋&fontSize=30&fontColor=white" />
+</p>
+
 
 I'm a passionate **frontend developer** with a deep love for building beautiful, responsive, and user-friendly websites. I specialize in creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
 
