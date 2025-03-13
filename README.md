@@ -49,7 +49,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ## 🌱 My Learning Journey:
 I'm constantly evolving as a developer, and I'm always working to improve my skills and keep up with the latest frontend technologies. Whether it's mastering a new JavaScript framework, learning a new language, or experimenting with new tools, I’m always looking for ways to improve my craft.
 
-Beyond code, I also enjoy learning **physical languages** like **Spanish** and **French**, which helps me expand my horizons and connect with people from different cultures.
+Beyond code, I also enjoy learning **physical languages** like **German** and **Swedish**, which helps me expand my horizons and connect with people from different cultures.
 
 Recently automation and CI/CD has been peaking my interest!
 
