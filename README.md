@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20there,%20I'm%20Simon!%20👋&fontSize=30&fontColor=ffffff" />
 </p>
 
-I'm a passionate **frontend developer** with a deep love for building beautiful, responsive, and user-friendly websites. I specialize in creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
+I'm a passionate **Frontend Developer** with a deep love for building beautiful, responsive, and user-friendly websites. I specialize in creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
 
 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or indulging in a good podcast or Netflix series!
 
@@ -13,9 +13,10 @@ When I'm not coding, you can find me exploring new technologies, contributing to
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
+
 
 
 ## My most used Languages
