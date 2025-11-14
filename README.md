@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20there,%20I'm%20Simon!%20👋&fontSize=30&fontColor=ffffff" />
 </p>
 
-I'm a passionate **Frontend Developer** with a deep love for building beautiful, responsive, and user-friendly websites. I specialize in creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
+I'm a **Frontend Developer** with strives to build beautiful, responsive, and user-friendly websites. I spend my time creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
 
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or indulging in a good podcast or Netflix series!
+When I'm not coding, you can find me exploring new technologies, tinkering with tech, trying linux or breaking my laptops because of configs, or indulging in a good podcast or Netflix series!
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -27,32 +27,18 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 </p>
 
 
-## ⭐ Featured Repositories
-
-- [![Website Template](https://img.shields.io/badge/Website_Template-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/template-warcraft)  
-   A template for a website, using Next.js, React, and Shadcn. A repo that you can fork if you need a solution quickly.
-
-- [![Website for Fantasy Festival](https://img.shields.io/badge/Website_for_Fantasy_Festival-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/Sinyedu/Fantasy-Festival)  
-  A project we made in the 2nd semester for our AP Degree for a customer.
-
-- [![NexTask - A project management solution](https://img.shields.io/badge/NexTask_A_project_management_solution-F0F0F0?style=flat&logo=github&logoColor=black)](https://github.com/NimNim20/NexTask)  
- A project that @nimnim20 and I started, for fun and to improve our React skills, making a real product and really challenge ourselves. 
-
-
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sinyedu&show_icons=true&hide_title=true&count_private=true" />
 </p>
 
 
-
 ## 🌱 My Learning Journey:
-I'm constantly evolving as a developer, and I'm always working to improve my skills and keep up with the latest frontend technologies. Whether it's mastering a new JavaScript framework, learning a new language, or experimenting with new tools, I’m always looking for ways to improve my craft.
+I'm always evolving as a developer. I'm always working to improve my skills and keep up with the latest frontend technologies. Whether it's mastering a new JavaScript framework, learning a new language, or experimenting with new tools, I’m always looking for ways to improve my craft. Especially in regards to technologies such as backend languages or more systemic languages.
 
 Beyond code, I also enjoy learning **physical languages** like **German** and **Swedish**, which helps me expand my horizons and connect with people from different cultures.
 
-Recently automation and CI/CD has been peaking my interest!
+Recently automation, CI/CD and Linux has been very interesting for me as a developer that wants to create more!
 
 
 ## 🔗 Connect with Me:
