@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20there,%20I'm%20Simon!%20👋&fontSize=30&fontColor=ffffff" />
 </p>
 
-I'm a **Frontend Developer** with strives to build beautiful, responsive, and user-friendly websites. I spend my time creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
+I'm a **Frontend Developer** who strives to build beautiful, responsive, and user-friendly websites. I spend my time creating **dynamic web applications** and enjoy working with a variety of technologies to deliver seamless user experiences. 
 
 When I'm not coding, you can find me exploring new technologies, tinkering with tech, trying linux or breaking my laptops because of configs, or indulging in a good podcast or Netflix series!
 
