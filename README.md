@@ -35,21 +35,7 @@ When I'm not coding, you’ll probably find me:
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 </p>
 
----
 
-## 📊 Most Used Languages  
-<p align="center">
-  <img height="200" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Sinyedu&theme=radical&layout=compact&langs_count=12&card_width=320" />
-</p>
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=Sinyedu&show_icons=true&hide_title=true&count_private=true&theme=radical" />
-</p>
-
----
 
 ## 🌱 Learning Journey  
 I'm always growing as a developer, diving deeper into JavaScript ecosystems, exploring backend technologies, and experimenting with automation, CI/CD, and Linux setups.
