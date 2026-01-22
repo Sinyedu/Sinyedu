@@ -50,33 +50,12 @@ When I’m not coding, I’m probably:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
----
-
-## What I’m Learning
-
-I’m continuously improving my skills, especially around:
-- modern JavaScript & TypeScript
-- backend development with **Laravel**, **Node**, and **Python**
-- databases & SQL
-- Docker-based workflows
-- automation, CI/CD, and infrastructure basics
-
-Outside of code, I enjoy gaming and somehow ended up learning a bit of  
-**German** and **Swedish** thanks to people I’ve met along the way.
-
----
 
 ## Links
 
 - **LinkedIn:** https://www.linkedin.com/in/simonnyblom/
 - **Personal Website:** _Work in progress_
 
----
-
-## Fun Fact
-
-I almost never code in silence. There’s usually a podcast, tech video, or Netflix series running in the background.  
-If something can be automated, I’ll eventually try to automate it.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
