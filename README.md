@@ -8,6 +8,8 @@
 
 ## About Me
 
+“It worked yesterday. That’s all I know.”
+
 I'm a **Frontend Developer** who enjoys building things, breaking them, fixing them again,  
 and occasionally learning important lessons the hard way.
 
@@ -20,6 +22,12 @@ When I’m not coding, I’m probably:
 - or debugging while Netflix runs in the background
 
 ---
+
+## Currently
+
+- 🚧 Building: personal projects & experiments
+- 🧪 Exploring: Linux workflows, Neovim, Docker
+- 🧠 Learning: deeper TypeScript & performance patterns
 
 ## Tech Stack
 
