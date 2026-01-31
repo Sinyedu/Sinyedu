@@ -16,18 +16,19 @@ and occasionally learning important lessons the hard way.
 I like working on **apps, side projects, configs**, and experimenting with frameworks, backend tools, Docker setups, and Linux environments.
 
 When I’m not coding, I’m probably:
-- tweaking a Linux setup at an unreasonable hour  
-- trying a new framework “just to see how it works”  
-- watching tech videos  
-- or debugging while Netflix runs in the background
+- Tweaking a Linux setup at an unreasonable hour  
+- Trying a new framework “just to see how it works”  
+- Watching tech videos  
+- Or debugging while Netflix runs in the background
 
 ---
 
 ## Currently
 
-- 🚧 Building: personal projects & experiments
+- 🚧 Building: Personal projects & experiments
 - 🧪 Exploring: Linux workflows, Neovim, Docker
-- 🧠 Learning: deeper TypeScript & performance patterns
+- 🧠 Learning: Deeper TypeScript & performance patterns
+- 🤓 Watching: Tech videos, Podcasts, Documentaries
 
 ## Tech Stack
 
