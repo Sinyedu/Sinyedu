@@ -10,7 +10,7 @@
 
 “It worked yesterday. That’s all I know.”
 
-I'm a **Frontend Developer** who enjoys building things, breaking them, fixing them again,  
+I'm a **Frontend Developer** who enjoys building, creating and fixing things,  
 and occasionally learning important lessons the hard way.
 
 I like working on **apps, side projects, configs**, and experimenting with frameworks, backend tools, Docker setups, and Linux environments.
