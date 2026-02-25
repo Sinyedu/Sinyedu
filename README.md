@@ -63,7 +63,7 @@ When I’m not coding, I’m probably:
 ## Links
 
 - **LinkedIn:** https://www.linkedin.com/in/simonnyblom/
-- **Personal Website:** _Work in progress_
+- **Personal Website:** simonnyblom.vercel.app
 
 
 <p align="center">
