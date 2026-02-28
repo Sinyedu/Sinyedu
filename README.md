@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:0f172a&height=160&section=header&text=Simon%20Nyblom&fontSize=42&fontColor=00ffcc&animation=twinkling" />
+  <img src="https://img.shields.io/badge/%24%20whoami-Simon%20Nyblom-00ffcc?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" />
+  <img src="https://img.shields.io/badge/%24%20role-Frontend%20Developer-00ffcc?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" />
 </p>
 
 <p align="center">
-  <code>frontend developer · builds things · breaks things · fixes them</code>
+<code>frontend developer · terminal enjoyer · systems thinker</code>
 </p>
 
 ## About Me
