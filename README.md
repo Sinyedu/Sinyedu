@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<code>frontend developer · terminal enjoyer · systems thinker</code>
+<code>full-stack developer · terminal enjoyer · systems thinker</code>
 </p>
 
 ## About Me
