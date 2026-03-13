@@ -24,13 +24,6 @@ When I’m not coding, I’m probably:
 
 ---
 
-## Currently
-
-- 🚧 Building: Personal projects & experiments
-- 🧪 Exploring: Linux workflows, Neovim, Docker
-- 🧠 Learning: Deeper TypeScript & performance patterns
-- 🤓 Watching: Tech videos, Podcasts, Documentaries
-
 ## Tech Stack
 
 ### Frontend
