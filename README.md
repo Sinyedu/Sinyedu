@@ -11,16 +11,16 @@
 
 “It worked yesterday. That’s all I know.”
 
-I'm a **Frontend Developer** who enjoys building, creating and fixing things,  
-and occasionally learning important lessons the hard way.
+I'm a **Full-stack developer** who enjoys building, creating, and fixing things,  
+occasionally learning important lessons the hard way.
 
 I like working on **apps, side projects, configs**, and experimenting with frameworks, backend tools, Docker setups, and Linux environments.
 
 When I’m not coding, I’m probably:
-- Tweaking a Linux setup at an unreasonable hour  
-- Trying a new framework “just to see how it works”  
+- Tweaking my Linux setup late at night  
+- Experimenting with new frameworks “just to see how they work”  
 - Watching tech videos  
-- Or debugging while Netflix runs in the background
+- Debugging while Netflix runs in the background
 
 ---
 
@@ -53,13 +53,25 @@ When I’m not coding, I’m probably:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
+---
+
+## GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sinyedu&show_icons=true&theme=dark&count_private=true" 
+           alt="Simon Nyblom GitHub Stats" />
+    </td>
+    <td width="40"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyedu&layout=compact&theme=dark" 
+           alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ## Links
-
-- **LinkedIn:** https://www.linkedin.com/in/simonnyblom/
-- **Personal Website:** [https://www.simonnyblom.vercel.app](https://simonnyblom.vercel.app/)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+- **LinkedIn:** https://www.linkedin.com/in/simonnyblom/  
+- **Personal Website:** [https://www.simonnyblom.vercel.app](https://www.simonnyblom.vercel.app/)
