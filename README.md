@@ -74,4 +74,4 @@ When I’m not coding, I’m probably:
 
 ## Links
 - **LinkedIn:** https://www.linkedin.com/in/simonnyblom/  
-- **Personal Website:** [https://www.simonnyblom.vercel.app](https://www.simonnyblom.vercel.app/)
+- **Personal Website:** https://simonnyblom.vercel.app/
