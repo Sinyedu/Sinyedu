@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-<code>full-stack developer · terminal enjoyer · systems thinker</code>
+<code>frontend developer · terminal enjoyer · systems thinker</code>
 </p>
 
 ## About Me
 
 “It worked yesterday. That’s all I know.”
 
-I'm a **Full-stack developer** who enjoys building, creating, and fixing things,  
+I'm a **Frontend developer** that is working towards Full-stack. I enjoy building, creating, and fixing things,  
 occasionally learning important lessons the hard way.
 
 I like working on **apps, side projects, configs**, and experimenting with frameworks, backend tools, Docker setups, and Linux environments.
