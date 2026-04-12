@@ -55,21 +55,10 @@ When I’m not coding, I’m probably:
 
 ---
 
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sinyedu&show_icons=true&theme=dark&count_private=true" 
-           alt="Simon Nyblom GitHub Stats" />
-    </td>
-    <td width="40"></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyedu&layout=compact&theme=dark" 
-           alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## 📡 Status
+🟢 Backend: Working  
+🟡 Frontend: “Almost done”  
+🔴 CSS: Send help  
 
 
 ## Links
