@@ -1,66 +1,98 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%24%20whoami-Simon%20Nyblom-00ffcc?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" />
-  <img src="https://img.shields.io/badge/%24%20role-Frontend%20Developer-00ffcc?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" />
+  <img src="https://img.shields.io/badge/%24%20role-Frontend%20Engineer-00ffcc?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=020617" />
 </p>
 
 <p align="center">
-<code>frontend developer · terminal enjoyer · systems thinker</code>
+<code>frontend engineer · terminal enjoyer · systems thinker</code>
 </p>
-
-## About Me
-
-“It worked yesterday. That’s all I know.”
-
-I'm a **Frontend developer** that is working towards Full-stack. I enjoy building, creating, and fixing things,  
-occasionally learning important lessons the hard way.
-
-I like working on **apps, side projects, configs**, and experimenting with frameworks, backend tools, Docker setups, and Linux environments.
-
-When I’m not coding, I’m probably:
-- Tweaking my Linux setup late at night  
-- Experimenting with new frameworks “just to see how they work”  
-- Watching tech videos  
-- Debugging while Netflix runs in the background
 
 ---
 
-## Tech Stack
+## 🧠 About Me
+
+> “It worked yesterday. That’s all I know.”
+
+I'm a **Frontend Engineer** working toward becoming a **Full-stack engineer**.
+
+I enjoy building, breaking, and rebuilding things—usually in that order.  
+I like working on apps, systems, and developer tooling, especially when it involves APIs, automation, or figuring out why something *definitely should work but doesn’t*.
+
+Outside of coding, I’m usually:
+- Tweaking Linux configs at unreasonable hours  
+- Testing frameworks “just to understand them”  
+- Debugging while YouTube is playing in the background  
+- Falling into rabbit holes about systems design or dev tooling  
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Airport Departure Board
+Real-time flight dashboard with weather integration and live API data.
+
+- React frontend
+- MongoDB backend
+- External API integrations (Lufthansa / flight data)
+- Focus: real-time systems, UX, data handling
+
+---
+
+### 🤖 Local AI Dev Setup
+Local-first AI workflow using LLMs inside a development environment.
+
+- Ollama + local models
+- VSCode integration
+- Focus: dev tooling, productivity, agentic workflows
+
+---
+
+### ⚙️ More on GitHub
+Check out pinned repositories for more experiments and side projects.
+
+---
+
+## 🧬 Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📡 Status
-🟢 Backend: Working  
-🟡 Frontend: “Almost done”  
-🔴 CSS: Send help  
+## 🖥️ Terminal
 
+```bash
+> whoami
+Simon Nyblom
 
-## Links
-- **LinkedIn:** https://www.linkedin.com/in/simonnyblom/  
-- **Personal Website:** https://simonnyblom.vercel.app/
+> role
+Frontend Engineer → Full-stack in progress
+
+> current_focus
+- System design basics
+- Better backend architecture
+- Local AI tooling & automation
+
+> interests
+- Dev tooling
+- Clean architecture
+- APIs that behave themselves
+
+> uptime
+too long
