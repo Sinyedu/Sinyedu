@@ -139,15 +139,3 @@ Node.js · NestJS · MongoDB · PostgreSQL
 Linux · Docker · Git · Ollama · Neovim
 
 ---
-
-## Experiments
-
-Most repositories here are experiments, prototypes,
-or systems built to better understand how things work internally.
-
-Some succeed.
-Some become abandoned architecture rabbit holes.
-Both are useful.
-
-```
-```
